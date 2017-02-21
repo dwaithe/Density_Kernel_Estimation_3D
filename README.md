@@ -9,7 +9,7 @@ Waithe D. et al. (2016) 3-D Density Kernel Estimation for Counting in Microscopy
 
 [Online link to conference paper](http://link.springer.com/chapter/10.1007/978-3-319-46604-0_18)
 
-[Online link to pre-submission](submissionFinal.pdf)
+[Direct link to pre-submission pdf](submissionFinal.pdf)
 
 
 ####Abstract
