@@ -19,6 +19,8 @@ We describe a means through which cells can be accurately counted in 3-D microsc
 ####Summary Figure
 ![alt](summary_fig.png)
 
+Training scheme in 3-D. (A) Input image volume with dot annotation (red, exaggerated) in xy dimension and also orthogonal max projections (zy, right) (xz, bottom). (B) Ground-truth density function in xy dimension and also orthogonal max projections (zy, right) (xz, bottom). Scale bar is 40 pixels. (C) Schematic for data input and output with the ensemble of decision trees. Input features are calculated from input image volumes and associated with ground-truth density volume. Sampled voxel features and associated ground-truth voxels are then concatenated into a long vector (number of voxels, number of features) and used to train the ensemble of decision trees. Each decision tree receives a boot-strap sample of input voxels. At inference time, for a given voxel, the output density is calculated using the average output of each tree for that voxel to produce the predicted density image. 
+
 ####Datasets
 
 
