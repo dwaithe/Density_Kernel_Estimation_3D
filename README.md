@@ -3,7 +3,8 @@
 3-D Density Kernel Estimation for Counting in Microscopy Image Volumes Using 3-D Image Filters and Random Decision Trees  
 By Dominic Waithe  
 From journal paper:
-DOI: 10.1007/978-3-319-46604-0_18 \\
+DOI: 10.1007/978-3-319-46604-0_18
+
 Waithe D. et al. (2016) 3-D Density Kernel Estimation for Counting in Microscopy Image Volumes Using 3-D Image Filters and Random Decision Trees. In: Hua G., Jégou H. (eds) Computer Vision – ECCV 2016 Workshops. ECCV 2016. Lecture Notes in Computer Science, vol 9913. Springer, Cham
 
 [Online link to paper](http://link.springer.com/chapter/10.1007/978-3-319-46604-0_18)
